@@ -27,7 +27,7 @@ https://rpn1.bozztv.com/36bay2/gusa-hitops/index.m3u8
 https://rpn1.bozztv.com/36bay2/gusa-tvshollywoohistory/index.m3u8
 #EXTINF:-1 tvg-id="watchyourtv_EPGTVS Horror" tvg-name="TVS Horror" tvg-logo="https://www.watchyour.tv/epg/channellogos/tvs-horror.png" group-title="WatchYour.TV",TVS Horror
 https://rpn1.bozztv.com/36bay2/gusa-tvshorror/index.m3u8
-#EXTINF:-1 tvg-id="watchyourtv_EPGTVS Inspirational Network" tvg-name="TVS Inspirational Network" tvg-logo="https://www.watchyour.tv/img/epgdefault.png" group-title="WatchYour.TV",TVS Inspirational Network
+#EXTINF:-1 tvg-id="DUMMYNoGuide" tvg-name="TVS Inspirational Network" tvg-logo="https://www.watchyour.tv/img/epgdefault.png" group-title="WatchYour.TV",TVS Inspirational Network
 https://rpn1.bozztv.com/36bay2/gusa-TVSInspirationalNetwork/index.m3u8
 #EXTINF:-1 tvg-id="watchyourtv_EPGTVS Light Network" tvg-name="TVS Light Network" tvg-logo="https://www.watchyour.tv/epg/channellogos/tvs-family-channel.png" group-title="WatchYour.TV",TVS Light Network
 https://rpn1.bozztv.com/36bay2/gusa-TVSFamilyChannel/index.m3u8
@@ -47,15 +47,15 @@ https://rpn1.bozztv.com/36bay2/gusa-tvstravel/index.m3u8
 https://rpn1.bozztv.com/36bay2/gusa-tvsgameshow/index.m3u8
 #EXTINF:-1 tvg-id="watchyourtv_EPGTVS Select Network" tvg-name="TVS Select Network" tvg-logo="https://www.watchyour.tv/epg/channellogos/tvs-select-network.png" group-title="WatchYour.TV",TVS Select Network
 https://rpn1.bozztv.com/36bay2/gusa-tvsselect/index.m3u8
-#EXTINF:-1 tvg-id="watchyourtv_EPGTVS Silo Discount Network" tvg-name="TVS Silo Discount Network" tvg-logo="https://www.watchyour.tv/img/epgdefault.png" group-title="WatchYour.TV",TVS Silo Discount Network
+#EXTINF:-1 tvg-id="DUMMYNoGuide" tvg-name="TVS Silo Discount Network" tvg-logo="https://www.watchyour.tv/img/epgdefault.png" group-title="WatchYour.TV",TVS Silo Discount Network
 https://rpn1.bozztv.com/36bay2/gusa-tvssilodiscount/index.m3u8
 #EXTINF:-1 tvg-id="watchyourtv_EPGTVS Sitcom" tvg-name="TVS Sitcom" tvg-logo="https://www.watchyour.tv/epg/channellogos/tvs-comedy-channel.png" group-title="WatchYour.TV",TVS Sitcom
 https://rpn1.bozztv.com/36bay2/gusa-tvscomedy/index.m3u8
-#EXTINF:-1 tvg-id="watchyourtv_EPGTVS Sports Bureau" tvg-name="TVS Sports Bureau" tvg-logo="https://www.watchyour.tv/epg/channellogos/tvs-sports-bureau.png" group-title="WatchYour.TV",TVS Sports Bureau
+#EXTINF:-1 tvg-id="DUMMYNoGuide" tvg-name="TVS Sports Bureau" tvg-logo="https://www.watchyour.tv/img/epgdefault.png" group-title="WatchYour.TV",TVS Sports Bureau
 https://rpn1.bozztv.com/36bay2/gusa-tvssportsbureau/index.m3u8
 #EXTINF:-1 tvg-id="watchyourtv_EPGTVS Sports Network" tvg-name="TVS Sports Network" tvg-logo="https://www.watchyour.tv/epg/channellogos/tvs-sports-network.png" group-title="WatchYour.TV",TVS Sports Network
 https://rpn1.bozztv.com/36bay2/gusa-tvssports/index.m3u8
-#EXTINF:-1 tvg-id="DUMMYNoGuide" tvg-name="TVS Talk Network" tvg-logo="https://www.watchyour.tv/epg/channellogos/tvs-talk-network.png" group-title="WatchYour.TV",TVS Talk Network
+#EXTINF:-1 tvg-id="DUMMYNoGuide" tvg-name="TVS Talk Network" tvg-logo="https://www.watchyour.tv/img/epgdefault.png" group-title="WatchYour.TV",TVS Talk Network
 https://rpn1.bozztv.com/36bay2/gusa-TVStalk/index.m3u8
 #EXTINF:-1 tvg-id="watchyourtv_EPGTVS Tally Ho" tvg-name="TVS Tally Ho" tvg-logo="https://www.watchyour.tv/epg/channellogos/tvs-tally-ho.png" group-title="WatchYour.TV",TVS Tally Ho
 https://rpn1.bozztv.com/36bay2/gusa-tvstallyho/index.m3u8
@@ -71,7 +71,7 @@ https://rpn1.bozztv.com/36bay2/gusa-tvsturbo/index.m3u8
 https://rpn1.bozztv.com/36bay2/gusa-tvsvintage/index.m3u8
 #EXTINF:-1 tvg-id="watchyourtv_EPGTVS Western Movie" tvg-name="TVS Western Movie" tvg-logo="https://www.watchyour.tv/epg/channellogos/tvs-western-movie.png" group-title="WatchYour.TV",TVS Western Movie
 https://rpn1.bozztv.com/36bay2/gusa-tvswesternmovies/index.m3u8
-#EXTINF:-1 tvg-id="watchyourtv_EPGTVS Women's Sports Network" tvg-name="TVS Womens Sports Network" tvg-logo="https://www.watchyour.tv/img/epgdefault.png" group-title="WatchYour.TV",TVS Women's Sports Network
+#EXTINF:-1 tvg-id="DUMMYNoGuide" tvg-name="TVS Womens Sports Network" tvg-logo="https://www.watchyour.tv/img/epgdefault.png" group-title="WatchYour.TV",TVS Women's Sports Network
 https://rpn1.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
 #EXTINF:-1 tvg-id="DUMMYNoGuide" tvg-name="Rare Collectibles TV" tvg-logo="https://www.watchyour.tv/img/epgdefault.png" group-title="WatchYour.TV",Rare Collectibles TV
 https://rpn1.bozztv.com/36bay2/gusa-tvsrarecollectibles/index.m3u8
